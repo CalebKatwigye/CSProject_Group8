@@ -1,4 +1,4 @@
-# flutter_application_1
+# CS Project Group 8
 
 A new Flutter project.
 
